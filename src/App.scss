@@ -1,0 +1,23 @@
+.container{
+  height: 100vh;
+}
+.r-flex{
+  display: flex;
+  width: 100%;
+  height: 93%;
+
+
+}
+.guide{
+  flex: 0 0 auto;
+  width: 250px;
+  height: 100%;
+  position: relative;
+}
+.c-flex{
+  display: flex;
+  flex: auto;
+  height:auto;
+  align-items: center;
+  flex-direction: column;
+}
